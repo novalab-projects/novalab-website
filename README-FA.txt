@@ -1,4 +1,4 @@
-NovaLab — نسخه ۴ پروژه‌ای
+TAGSAP — نسخه ۴ پروژه‌ای
 
 این بسته شامل صفحه اصلی و چهار پروژه شطرنج، منچ، ماشین‌حساب و سودوکو است.
 
@@ -11,4 +11,4 @@ NovaLab — نسخه ۴ پروژه‌ای
 توجه: فایل ZIP باید در ریشه خود پوشه NovaLab_Site داشته باشد. اگر سرویس ریشه ZIP را به عنوان ریشه سایت در نظر گرفت و سایت درست بالا نیامد، ZIP را Extract کنید و خود پوشه NovaLab_Site را در Netlify بارگذاری کنید.
 
 پروژه جدید: پوشه sudoku/index.html
-آدرس پیشنهادی: https://novalab-projects.netlify.app/sudoku/
+آدرس پیشنهادی: https://tagsap-projects.netlify.app/sudoku/
