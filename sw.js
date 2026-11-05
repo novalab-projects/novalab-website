@@ -1,4 +1,4 @@
-const CACHE = 'tagsap-pwa-v1';
+const CACHE = 'tagsap-pwa-v2';
 const CORE = ['/', '/index.html', '/manifest.webmanifest', '/tagsap-icon-192.png', '/tagsap-icon-512.png'];
 const PROJECTS = ['/chess/', '/ludo/', '/sudoku/', '/calculator/'];
 self.addEventListener('install', event => {
